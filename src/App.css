@@ -1,0 +1,17 @@
+.App{
+  width: 50%;
+  background: #111;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.App-input{
+  width: 80%;
+  height: 20px;
+  border: none;
+  outline: none;
+  margin-left: 10%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
